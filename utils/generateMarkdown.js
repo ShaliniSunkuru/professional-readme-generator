@@ -31,13 +31,15 @@ ${data.contribution}
 
 ${data.tests}
 
-##License
+## License
 
 ${data.license}
 
-##Questions
-# Visit my [Github Profile](https://github.com/${data.username})
-# More questions? CReach out to me by [email](${data.email})`;
+## Questions
+
+Visit my [Github Profile](https://github.com/${data.username})
+
+More questions? CReach out to me by [email](${data.email})`;
 }
   
   module.exports = generateMarkdown;
