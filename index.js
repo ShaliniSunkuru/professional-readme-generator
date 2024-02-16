@@ -70,7 +70,7 @@ function init(){
             // console.log(answers);
             const answersToMd = generateMarkdown(answers);
             // console.log(answersToMd);
-            const fileName = "sample-readme.md";
+            const fileName = "README.md";
             writeToFile(fileName, answersToMd);
         });
 }

@@ -2,11 +2,11 @@
 function generateMarkdown(data) {
     return `# ${data.title}
 
-##Description
+## Description
     
 ${data.description} 
 
-##Table of Contents
+## Table of Contents
 
 -[Installation](#installation)
 -[Usage](#usage)
@@ -31,13 +31,16 @@ ${data.contribution}
 
 ${data.tests}
 
-##License
+## License
 
-${data.license}
+${data.license} License
 
-##Questions
-# Visit my [Github Profile](https://github.com/${data.username})
-# More questions? CReach out to me by [email](${data.email})`;
+## Questions
+
+Visit my [Github Profile](https://github.com/${data.username})
+
+More questions? Reach out to me by [email](${data.email})`;
+
 }
   
   module.exports = generateMarkdown;
