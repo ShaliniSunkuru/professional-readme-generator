@@ -39,7 +39,7 @@ ${data.license} License
 
 Visit my [Github Profile](https://github.com/${data.username})
 
-More questions? Reach out to me by [email](${data.email})`;
+More questions? Reach out to me by [email](mailto:${data.email})`;
 
 }
   

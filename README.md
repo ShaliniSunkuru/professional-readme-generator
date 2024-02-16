@@ -37,4 +37,4 @@ MIT License
 
 Visit my [Github Profile](https://github.com/ShaliniSunkuru)
 
-More questions? Reach out to me by [email](shalini.sunkuru@gmail.com)
+More questions? Reach out to me by [email](mailto:shalini.sunkuru@gmail.com)
