@@ -19,7 +19,7 @@ This application requires installation of node.js, node fs (file system) and npm
 
 ## Usage
 
-To use the applicaiton, Navigate to the correct folder of the project, open terminal and type node index.js to run the application. You will be provided with a series of prompts. Answer the questions or select the answer. And click enter. A README file should be generated in your folder with the name sample-readme.md. It should include all the information you entered in a professional markdown format for you to use. Feel free to rename the file. 
+To use the applicaiton, Navigate to the correct folder of the project, open terminal and type node index.js to run the application. You will be provided with a series of prompts. Answer the questions or select the answer. And click enter. A README file should be generated in your folder with the name newREADME.md. It should include all the information you entered in a professional markdown format for you to use. Feel free to rename the file and use. 
 
 ## Contributing
 
