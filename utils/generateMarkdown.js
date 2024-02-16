@@ -8,12 +8,12 @@ ${data.description}
 
 ## Table of Contents
 
--[Installation](#installation)
--[Usage](#usage)
--[Contibuting](#contribution)
--[Tests](#tests)
--[License](#license)
--[Questions](#questions)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contibuting](#contribution)
+- [Tests](#tests)
+- [License](#license)
+- [Questions](#questions)
 
 ## Installation
     

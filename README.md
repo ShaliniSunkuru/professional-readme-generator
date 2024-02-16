@@ -6,12 +6,12 @@ A command-line application to generate a professional readme marlkdown file. Thi
 
 ## Table of Contents
 
--[Installation](#installation)
--[Usage](#usage)
--[Contibuting](#contribution)
--[Tests](#tests)
--[License](#license)
--[Questions](#questions)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contibuting](#contribution)
+- [Tests](#tests)
+- [License](#license)
+- [Questions](#questions)
 
 ## Installation
     
