@@ -62,7 +62,13 @@ function writeToFile(fileName, data){
 
 // function to initialize program
 function init(){
-
+    inquirer
+        .prompt(questions)
+        .then((answers) => {
+            // console.log(answers);
+            let answersToMd = generateMarkdown(answers);
+            console.log(answersToMd);
+        });
 }
 
 // function call to initialize program
