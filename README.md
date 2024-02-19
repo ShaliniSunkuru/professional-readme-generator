@@ -24,7 +24,7 @@ To use the applicaiton, Navigate to the correct folder of the project, open term
 
 ## Video
 
-You can watch the video demo of the application [here](video/%20video-professional-readme-generator-19%20February%202024.mp4). 
+You can watch the video demo of the application [here](video/demo-professional-readme-generator_%20Feb%2019,%202024%2011_26%20PM.webm) or in [google drive](https://drive.google.com/file/d/1Rp6kLk-O35hJJZCpDqGDBNSQBHhq-fI5/view)
 
 ## Contributing
 
