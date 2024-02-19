@@ -8,6 +8,7 @@ A command-line application to generate a professional readme marlkdown file. Thi
 
 - [Installation](#installation)
 - [Usage](#usage)
+- [Demo Video](#video)
 - [Contibuting](#contribution)
 - [Tests](#tests)
 - [License](#license)
@@ -20,6 +21,10 @@ This application requires installation of node.js, node fs (file system) and npm
 ## Usage
 
 To use the applicaiton, Navigate to the correct folder of the project, open terminal and type node index.js to run the application. You will be provided with a series of prompts. Answer the questions or select the answer. And click enter. A README file should be generated in the yourReadme folder in the project directory with the name README.md. It should include all the information you entered in a professional markdown format for you to use. 
+
+## Video
+
+You can watch the video demo of the application [here](video/%20video-professional-readme-generator-19%20February%202024.mp4). 
 
 ## Contributing
 
