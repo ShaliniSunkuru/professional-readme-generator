@@ -1,8 +1,8 @@
-# Sample Readme
+# Sample REadme
 
 ## Description
     
-demonstration of readme generator application 
+demonstration of readme generator 
 
 ## Table of Contents
 
@@ -15,19 +15,19 @@ demonstration of readme generator application
 
 ## Installation
     
-install node. Enter project directory and run
+install node. Run project
 
 ## Usage
 
-answer the questions prompted in the command line
+answer the questions prompted
 
 ## Contributing
 
-To contribute, clone repo and commit to a branch
+contribute to github repo, new branch
 
 ## Tests
 
-npm tests
+npm
 
 ## License
 
